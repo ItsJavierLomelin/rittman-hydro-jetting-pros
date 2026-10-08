@@ -208,3 +208,5 @@ img { max-width:100%; }
 }
 .section-intro a,.faq-row a,.card a:not(.button-primary) { color:var(--ink); text-decoration:underline; text-decoration-color:var(--amber); text-underline-offset:3px; text-decoration-thickness:2px; }
 .section-intro a:hover { color:var(--amber-deep); }
+
+.card,.svc-card{position:relative}.service-card-main::after{content:"";position:absolute;inset:0;z-index:2}.service-card-main:focus-visible::after{outline:3px solid currentColor;outline-offset:3px}.card-spec a{position:relative;z-index:3}.hero-copy{max-width:65ch}.reveal{opacity:1!important;transform:none!important}@media(max-width:600px){h1{overflow-wrap:break-word}.hero-cta{flex-wrap:wrap}}
