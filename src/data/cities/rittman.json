@@ -472,7 +472,14 @@
           "h": "Drain cleaning around Ohio Avenue",
           "ps": [
             "Ohio Avenue is mapped through central Rittman, where the city offices stand on West Ohio Avenue.",
-            "This page covers a street corridor, not a separate municipality inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a street corridor, not a separate municipality inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A central property with mixed drain history",
+          "ps": [
+            "For an Ohio Avenue building, ask whether the affected fixtures share the route shown on current records. Rittman moved its business center toward the square over time, so the current use of a building matters more than the city\u2019s early industrial history. If several rooms were renovated at different times, describe the work without assuming every buried section was replaced."
           ]
         },
         {
@@ -518,6 +525,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Ohio Avenue is mapped through central Rittman, where the city offices stand on West Ohio Avenue. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a central property with mixed drain history?",
+          "a": "For an Ohio Avenue building, ask whether the affected fixtures share the route shown on current records. Rittman moved its business center toward the square over time, so the current use of a building matters more than the city\u2019s early industrial history. If several rooms were renovated at different times, describe the work without assuming every buried section was replaced."
         }
       ],
       "cta": "Request Hydro Jetting near Ohio Avenue",
@@ -536,7 +547,14 @@
           "h": "Drain cleaning around Sunset Drive",
           "ps": [
             "The USGS Rittman map names both East and West Sunset Drive.",
-            "This page covers a residential street area inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a residential street area inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A household drain with a changing pattern",
+          "ps": [
+            "East and West Sunset Drive are both named on the map. Give the side and house number so the request concerns one address rather than the entire corridor. If a laundry discharge causes a lower fixture to react, report that sequence; it gives the assessment more useful evidence than describing the whole house as slow."
           ]
         },
         {
@@ -582,6 +600,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "The USGS Rittman map names both East and West Sunset Drive. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a household drain with a changing pattern?",
+          "a": "East and West Sunset Drive are both named on the map. Give the side and house number so the request concerns one address rather than the entire corridor. If a laundry discharge causes a lower fixture to react, report that sequence; it gives the assessment more useful evidence than describing the whole house as slow."
         }
       ],
       "cta": "Request Hydro Jetting near Sunset Drive",
@@ -600,7 +622,14 @@
           "h": "Drain cleaning around South Main Street",
           "ps": [
             "South Main Street is shown on the USGS Rittman quadrangle within the city's street network.",
-            "This page covers a street-area access planning inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a street-area access planning inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "Access along a street corridor",
+          "ps": [
+            "A South Main Street request should identify the cleanout and any space needed to reach it. A street name does not establish whether access is in front, beside or behind the building. Share known obstacles and ask which accessible route can be assessed before moving stored items or covers."
           ]
         },
         {
@@ -646,6 +675,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "South Main Street is shown on the USGS Rittman quadrangle within the city's street network. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about access along a street corridor?",
+          "a": "A South Main Street request should identify the cleanout and any space needed to reach it. A street name does not establish whether access is in front, beside or behind the building. Share known obstacles and ask which accessible route can be assessed before moving stored items or covers."
         }
       ],
       "cta": "Request Hydro Jetting near South Main Street",
@@ -664,7 +697,14 @@
           "h": "Drain cleaning around Salt Street",
           "ps": [
             "Salt Street appears on the Rittman map, while the city's own history describes salt production as part of its industrial growth.",
-            "This page covers a industrial history without assuming a property's use inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work."
+            "This page covers a industrial history without assuming a property's use inside Rittman. It is not a diagnosis of any building or confirmation of a sewer connection. Give the actual property address when discussing work.",
+            "Use the form to describe the property and symptoms. A professional needs to assess the accessible pipe and confirm the cleaning method; this area page does not establish service availability."
+          ]
+        },
+        {
+          "h": "A property near industrial history",
+          "ps": [
+            "Salt Street\u2019s name and the city\u2019s salt-production history do not make every property an industrial drain-cleaning job. State the current use and identify whether the line carries household wastewater or wastewater from a business process. Do not put an unfamiliar discharge into the same category as a kitchen clog."
           ]
         },
         {
@@ -710,6 +750,10 @@
         {
           "q": "Does local history identify the current pipe?",
           "a": "Salt Street appears on the Rittman map, while the city's own history describes salt production as part of its industrial growth. It provides context only. Repair records and an inspection are needed for the present connection."
+        },
+        {
+          "q": "What should I clarify about a property near industrial history?",
+          "a": "Salt Street\u2019s name and the city\u2019s salt-production history do not make every property an industrial drain-cleaning job. State the current use and identify whether the line carries household wastewater or wastewater from a business process. Do not put an unfamiliar discharge into the same category as a kitchen clog."
         }
       ],
       "cta": "Request Hydro Jetting near Salt Street",
