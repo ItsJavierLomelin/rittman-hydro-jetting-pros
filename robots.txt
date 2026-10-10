@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://itsjavierlomelin.github.io/rittman-hydro-jetting-pros/sitemap.xml
+Sitemap: https://rittmanhydrojetting.prosapp.site/sitemap.xml
